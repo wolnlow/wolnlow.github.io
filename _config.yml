@@ -3,6 +3,6 @@ permalink: /:title
 title: waypig.com
 url: http://waypig.com
 feed: /atom.xml
-author_info: <a href="http://waypig.com/">BeiYuu</a>
+author_info: <a href="http://waypig.com/">waypig</a>
 
 theme: jekyll-theme-slate
