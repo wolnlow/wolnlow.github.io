@@ -1,8 +1,8 @@
 permalink: /:title
 
-title: BeiYuu.com
-url: http://beiyuu.com
+title: waypig.com
+url: http://waypig.com
 feed: /atom.xml
-author_info: <a href="http://beiyuu.com/">BeiYuu</a>
+author_info: <a href="http://waypig.com/">BeiYuu</a>
 
 theme: jekyll-theme-slate
