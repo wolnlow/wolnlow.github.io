@@ -8,9 +8,9 @@ layout: default
       <div class="info-card">
         <h1>waypig</h1>
         <h2>一个行走的猪</h2>
-<a href="http://weibo.com/" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="2"/></a>
-<a href="http://www.zhihu.com/" target="_blank"><img src="https://static.zhihu.com/static/favicon.ico" alt="" width="2"/></a>
-<a href="http://www.douban.com/" target="_blank"><img src="http://www.douban.com/favicon.ico" alt="" width="2"/></a>
+<a href="http://weibo.com/" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="22"/></a>
+<a href="http://www.zhihu.com/" target="_blank"><img src="https://static.zhihu.com/static/favicon.ico" alt="" width="22"/></a>
+<a href="http://www.douban.com/" target="_blank"><img src="http://www.douban.com/favicon.ico" alt="" width="22"/></a>
 <a href="http://instagram.com" target="_blank"><img src="http://d36xtkk24g8jdx.cloudfront.net/bluebar/00c6602/images/ico/favicon.ico" alt="" width="22"/></a>
       </div>
       <div id="particles-js"></div>
